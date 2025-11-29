@@ -30,7 +30,7 @@ export function AnniversaryLetter() {
             </div>
 
             <div className="text-center opacity-0 animate-slide-up" style={{ animationDelay: "1s" }}>
-              <p className="text-muted-foreground text-lg">A love letter handwritten in your heart</p>
+              <p className="text-muted-foreground text-lg">A love letter written in your heart</p>
               <div className="flex justify-center gap-2 mt-8">
                 <div
                   className="w-1.5 h-1.5 rounded-full bg-primary animate-bounce-subtle"
@@ -77,15 +77,15 @@ export function AnniversaryLetter() {
                 >
                   From the first moment I saw your smile to right now, as I write this letter to you, every memory we've
                   created together has made my life more beautiful. You've brought light into my
-                  life I didn't even know existed.
+                  life which I didn't even know existed.
                 </p>
 
                 <p
                   className="text-lg leading-relaxed text-foreground dark:text-slate-100 opacity-0 animate-slide-up"
                   style={{ animationDelay: "1s" }}
                 >
-                  The way you laugh at my terrible & dumb jokes, how you hold my hand without thinking, how you give me hickeys 🤭🤭 and
-                  be so happy, the little things you do that make me feel loved every single day—these moments are the true wealth of my life.
+                  The way you laugh at my lallu & dumb jokes, how you hold my hand, how you give me hickeys 🤭🤭
+                  , the little things you do that make me feel loved every single day - these moments are the true wealth of my life.
                 </p>
               </div>
 
@@ -131,16 +131,17 @@ export function AnniversaryLetter() {
                 >
                   Thank you for being exactly who you are beautiful, caring, loving, kind, and infinitely patient with me. 
                   Thank you for loving me when I didn't love myself. Thank you for staying, for believing in us, and for 
-                  making every day feel like a heaven.
+                  making every day feel like a heaven. Yk what you are the bestesttttt my baby and so much wowwwww umahhhh 😘😘
                 </p>
 
                 <p
                   className="text-lg leading-relaxed text-foreground dark:text-slate-100 opacity-0 animate-slide-up"
                   style={{ animationDelay: "1.2s" }}
                 >
-                  Happy 23 Months Meri Jaan 🧿🧿💕💐. I love you moreeeeeee than anything mere bacche, and
-                  I just can't wait to see what plans god has for us. Mujhe bs yk puri life aapke saath
-                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE 💗🫂🧿🎀
+                  Happy 23 Months Meri Jaan and aur bhi abhi bohot saari anniversaries we will celebrate together my babyyyy 🧿🧿😘💕💐.
+                  I love you moreeeeeee than anything mere bacche, and
+                  I just can't wait to see what plans destiny has for us. Mujhe bs yk puri life aapke saath
+                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE 💗🫂🧿🎀😘
                 </p>
               </div>
 
