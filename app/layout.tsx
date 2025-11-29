@@ -11,9 +11,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "23 Months of Love - Anniversary Letter",
-  description: "A heartfelt anniversary love letter with beautiful animations and heart-forming animations",
-  generator: "v0.app",
+  title: "23 Months of Love",
   icons: {
     icon: [
       { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
