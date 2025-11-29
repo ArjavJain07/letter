@@ -84,7 +84,7 @@ export function AnniversaryLetter() {
                   className="text-lg leading-relaxed text-foreground dark:text-slate-100 opacity-0 animate-slide-up"
                   style={{ animationDelay: "1s" }}
                 >
-                  The way you laugh at my terrible & dumb jokes, how you hold my hand without thinking, how you give me hickeys and
+                  The way you laugh at my terrible & dumb jokes, how you hold my hand without thinking, how you give me hickeys 🤭🤭 and
                   be so happy, the little things you do that make me feel loved every single day—these moments are the true wealth of my life.
                 </p>
               </div>
@@ -138,9 +138,9 @@ export function AnniversaryLetter() {
                   className="text-lg leading-relaxed text-foreground dark:text-slate-100 opacity-0 animate-slide-up"
                   style={{ animationDelay: "1.2s" }}
                 >
-                  Happy 23 Months Meri Jaan 💕💐. I love you moreeeeeee than anything mere bacche, and
+                  Happy 23 Months Meri Jaan 🧿🧿💕💐. I love you moreeeeeee than anything mere bacche, and
                   I just can't wait to see what plans god has for us. Mujhe bs yk puri life aapke saath
-                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE 💕🎀
+                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE 💗🫂🧿🎀
                 </p>
               </div>
 
