@@ -140,7 +140,7 @@ export function AnniversaryLetter() {
                 >
                   Happy 23 Months Meri Jaan 💕💐. I love you moreeeeeee than anything mere bacche, and
                   I just can't wait to see what plans god has for us. Mujhe bs yk puri life aapke saath
-                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE ❤🎀
+                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE 💕🎀
                 </p>
               </div>
 
