@@ -138,8 +138,9 @@ export function AnniversaryLetter() {
                   className="text-lg leading-relaxed text-foreground dark:text-slate-100 opacity-0 animate-slide-up"
                   style={{ animationDelay: "1.2s" }}
                 >
-                  Here's to 23 months down, and a lifetime more to go. I love you moreeeeeee than I ever thought possible, and
-                  I can't wait to see what the future holds for us.
+                  Happy 23 Months Meri Jaan 💕💐. I love you moreeeeeee than anything mere bacche, and
+                  I just can't wait to see what plans god has for us. Mujhe bs yk puri life aapke saath
+                  hi rehna hai bs aur kuch bhi nhi. I LOVE YOUUUUUUU MERE BACCHE ❤🎀
                 </p>
               </div>
 
