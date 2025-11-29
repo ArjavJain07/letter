@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { AnimatedHeart } from "./animated-heart"
-import { FloatingElement } from "./floating-element"
 
 export function AnniversaryLetter() {
   const [textVisible, setTextVisible] = useState(false)
@@ -13,13 +12,9 @@ export function AnniversaryLetter() {
 
   return (
     <div className="relative bg-gradient-to-br from-rose-50 via-white to-pink-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 overflow-hidden">
-      {/* Floating background elements */}
-      <FloatingElement delay={0} />
-      <FloatingElement delay={1} />
-      <FloatingElement delay={2} />
-      <FloatingElement delay={3} />
-
+      
       <div className="relative z-10">
+
         {/* Page 1: Title and Heart */}
         <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8">
           <div className="max-w-2xl w-full">
